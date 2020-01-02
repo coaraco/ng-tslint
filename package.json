@@ -1,6 +1,6 @@
 {
   "name": "@coara/ng-tslint",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Some TSLint rules for Angular projects",
   "main": "tslint-base.json",
   "scripts": {
@@ -11,6 +11,7 @@
     "url": "https://coara.co",
     "email": "contact@coara.co"
   },
+  "repository": "git@github.com/coaraco/ng-tslint.git",
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
