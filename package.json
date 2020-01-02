@@ -1,0 +1,14 @@
+{
+  "name": "@coara/ng-tslint",
+  "version": "1.0.0",
+  "description": "Some TSLint rules for Angular projects",
+  "main": "tslint-base.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "coara TM",
+  "license": "MIT",
+  "devDependencies": {
+    "codelyzer": "^5.2.1"
+  }
+}
