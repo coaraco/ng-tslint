@@ -1,12 +1,16 @@
 {
   "name": "@coara/ng-tslint",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Some TSLint rules for Angular projects",
   "main": "tslint-base.json",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
-  "author": "coara TM",
+  "author": {
+    "name": "coara TM",
+    "url": "https://coara.co",
+    "email": "contact@coara.co"
+  },
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
