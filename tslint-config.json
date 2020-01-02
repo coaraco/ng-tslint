@@ -1,7 +1,4 @@
 {
   "extends": "./tslint-base.json",
-  "rules": {
-    "no-errors": true,
-    "no-addition": false
-  }
+  "rules": {}
 }
