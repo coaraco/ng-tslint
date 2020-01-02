@@ -1,6 +1,6 @@
 {
   "name": "@coara/ng-tslint",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Some TSLint rules for Angular projects",
   "main": "tslint-base.json",
   "scripts": {
